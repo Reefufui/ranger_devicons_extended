@@ -242,6 +242,7 @@ dir_node_exact_matches = {
     '.trash'                           : '',
     '.nsfw'                            : '',
     '.local'                           : '',
+    '.mozilla'                         : '',
     'src'                              : '',
     'core'                             : '',
     'target'                           : '',
